@@ -21,6 +21,7 @@ foo[1, 2] = bar
 (technically this is putting a Makie.GridLayoutBase.GridLayout into a Makie.GridLayoutBase.GridPosition.)
 
 But if we want this to be functional?
+
 setindex!() is the solution:
 ```julia
 setindex!(foo, bar, 1, 1)
