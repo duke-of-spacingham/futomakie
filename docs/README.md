@@ -28,7 +28,7 @@ setindex!(foo, bar, 1, 1)
 ```
 
 ### References
-* [https://github.com/jkrumbiegel/GridLayoutBase.jl/blob/2e692ab23adc7ad0878ac905a71053964dd15822/src/gridlayout.jl#L1530]
+* [https://github.com/jkrumbiegel/GridLayoutBase.jl/blob/2e692ab23adc7ad0878ac905a71053964dd15822/src/gridlayout.jl#L1530](https://github.com/jkrumbiegel/GridLayoutBase.jl/blob/2e692ab23adc7ad0878ac905a71053964dd15822/src/gridlayout.jl#L1530)
 
 ## 2. Exception stack
 This one is not about Makie, it is about Julia. I don't care, imagine you're in the FutoJulia blog.
@@ -64,4 +64,4 @@ Aha! The issue is in boom().
 
 ### References
 * The solution is actually found in the [Julia manual on stack traces](https://docs.julialang.org/en/v1/manual/stacktraces/#Error-handling). Just buried a bit.
-* [https://stackoverflow.com/questions/72718578/julia-how-to-get-an-error-message-and-stacktrace-as-string]()
+* [https://stackoverflow.com/questions/72718578/julia-how-to-get-an-error-message-and-stacktrace-as-string](https://stackoverflow.com/questions/72718578/julia-how-to-get-an-error-message-and-stacktrace-as-string)
