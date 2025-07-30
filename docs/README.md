@@ -26,5 +26,5 @@ setindex!() is the solution:
 setindex!(foo, bar, 1, 1)
 ```
 
-### Sources
+### References
 * https://github.com/jkrumbiegel/GridLayoutBase.jl/blob/2e692ab23adc7ad0878ac905a71053964dd15822/src/gridlayout.jl#L1530
