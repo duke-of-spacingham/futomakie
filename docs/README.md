@@ -64,4 +64,4 @@ Aha! The issue is in boom().
 
 ### References
 * The solution is actually found in the [Julia manual on stack traces](https://docs.julialang.org/en/v1/manual/stacktraces/#Error-handling). Just buried a bit.
-* [https://stackoverflow.com/questions/72718578/julia-how-to-get-an-error-message-and-stacktrace-as-string]
+* [https://stackoverflow.com/questions/72718578/julia-how-to-get-an-error-message-and-stacktrace-as-string]()
