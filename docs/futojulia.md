@@ -29,7 +29,7 @@ not yay.
 
 What happened?
 
-well, first of all the Ref() is redundant. A vector is a reference by itself. So let's work with this:
+well, first of all the Ref() is redundant. A vector is a reference by itself. So let's work with this, it does the exact same thing:
 ```julia
 a = [1, 2, 3]
 b = a
