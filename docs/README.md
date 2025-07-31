@@ -1,3 +1,5 @@
+I also have a [Futojulia](futojulia.md) section, for General Julia thingies!
+
 ## 1. Functional layout populating
 Let's say you have two sub-grids within a parent grid:
 ```julia
